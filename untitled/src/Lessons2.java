@@ -1,4 +1,3 @@
-
 import java.util.Arrays;
 public class Lessons2 {
         public static void main(String[] args) {
@@ -10,5 +9,8 @@ public class Lessons2 {
                 }
                 System.out.println();
             }
+            // проверка
+            System.out.println(Arrays.asList(numbers[3][8]).indexOf(0));
+            System.out.println(Arrays.asList(numbers[4][6]).indexOf(0));
         }
-    }
+}
