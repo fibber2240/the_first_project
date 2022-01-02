@@ -3,7 +3,6 @@ import com.sun.org.apache.xpath.internal.objects.XObject;
 import java.util.Arrays;
 public class Lessons2 {
         public static void main(String[] args) {
-            Object
             int[][] cube = new int [10][10];
             int i = 0;
             int j = 0;
